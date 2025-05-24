@@ -69,7 +69,7 @@ Prêt à commencer ? Clonez le repo, installez, et c'est parti ! 🔥
 
 ```bash
 # Création du projet
-composer create-project ironflow/framework mon-projet
+composer create-project ironflow/skeleton mon-projet
 
 # Configuration
 cd mon-projet
