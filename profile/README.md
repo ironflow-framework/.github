@@ -2,13 +2,9 @@
 
 # Hi there 👋 Bienvenue chez **IronFlow**
 
----
-
-## 🛠️ À propos d'IronFlow
+## À propos d'IronFlow
 
 **IronFlow** est un **framework PHP rapide, léger et modulaire**, conçu pour les développeurs modernes qui souhaitent créer des applications web solides et évolutives. Inspiré par **Django**, **Laravel**, et **Rails**, notre vision est de **forger des solutions web robustes** pour les sites e-commerce, SaaS, et blogs.
-
----
 
 ## 🚀 Fonctionnalités clés
 
@@ -17,9 +13,7 @@
 - **Structure claire** : Une architecture bien définie pour vos projets.
 - **Flexibilité** : Idéal pour les SaaS, les boutiques en ligne, et bien plus.
 
----
-
-## 🌈 Comment contribuer ?
+## Comment contribuer ?
 
 Nous sommes ouverts aux contributions ! Voici comment vous pouvez nous aider :
 1. **Proposer des améliorations**  
@@ -35,17 +29,13 @@ Nous sommes ouverts aux contributions ! Voici comment vous pouvez nous aider :
 - Améliorer le système de cache.
 - Rédiger des exemples de projets.
 
----
-
 ## 👩‍💻 Ressources utiles
 
 - 📖 **Documentation** *(en cours)* : [https://ironflow.dev/docs](#)  
 - 📦 **Packagist** : [https://packagist.org/packages/ironflow/ironflow](#)  
 - 📣 **Communauté Discord** *(fictif pour l'instant)* : [https://discord.gg/ironflow](#)
 
----
-
-## 🍿 Fun facts
+## Fun facts
 
 - Le nom **IronFlow** vient de l’idée de **forger des applications solides et élégantes**.
 - Inspiré des meilleures pratiques de **Django**, **Laravel**, et **Rails**.
@@ -60,8 +50,6 @@ Avec **IronFlow**, vous pourrez :
 - 🔧 Activer et désactiver des modules facilement.  
 - 📐 Profiter d’une structure claire pour vos projets.  
 - 💻 Construire des SaaS et boutiques en ligne rapidement.  
-
----
 
 ## 📦 Installation rapide
 
