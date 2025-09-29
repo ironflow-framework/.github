@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![IronFlow Logo](./Ironflow.png)
+![IronFlow Logo](./../Ironflow.png)
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
