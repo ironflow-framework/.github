@@ -1,74 +1,46 @@
-![IronFlow Logo](../Ironflow.png)
+# IronFlow Framework
 
-# Hi there 👋 Bienvenue chez **IronFlow**
+<div align="center">
 
-## À propos d'IronFlow
+![IronFlow Logo](./Ironflow.png)
 
-**IronFlow** est un **framework PHP rapide, léger et modulaire**, conçu pour les développeurs modernes qui souhaitent créer des applications web solides et évolutives. Inspiré par **Django**, **Laravel**, et **Rails**, notre vision est de **forger des solutions web robustes** pour les sites e-commerce, SaaS, et blogs.
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/php-%3E%3D8.1-purple.svg" alt="PHP Version">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+</p>
 
-## 🚀 Fonctionnalités clés
+<p align="center">
+  <strong>Forge your web applications with strength and flexibility.</strong><br>
+  A modern PHP framework built for modularity, scalability, and developer happiness.
+</p>
 
-- **Installation rapide** : Démarrez un projet en 30 secondes.
-- **Modularité** : Activez ou désactivez des modules à la volée.
-- **Structure claire** : Une architecture bien définie pour vos projets.
-- **Flexibilité** : Idéal pour les SaaS, les boutiques en ligne, et bien plus.
+</div>
 
-## Comment contribuer ?
-
-Nous sommes ouverts aux contributions ! Voici comment vous pouvez nous aider :
-1. **Proposer des améliorations**  
-2. **Développer des modules**  
-3. **Optimiser le cœur du framework**  
-4. **Corriger des bugs**  
-
-👉 **Commence ici** : [CONTRIBUTING.md](CONTRIBUTING.md) *(à créer)*
-
-### 💡 Quelques idées :
-- Ajouter de nouveaux middlewares.
-- Développer un module d'authentification universel.
-- Améliorer le système de cache.
-- Rédiger des exemples de projets.
-
-## 👩‍💻 Ressources utiles
-
-- 📖 **Documentation** *(en cours)* : [https://ironflow.dev/docs](#)  
-- 📦 **Packagist** : [https://packagist.org/packages/ironflow/ironflow](#)  
-- 📣 **Communauté Discord** *(fictif pour l'instant)* : [https://discord.gg/ironflow](#)
-
-## Fun facts
-
-- Le nom **IronFlow** vient de l’idée de **forger des applications solides et élégantes**.
-- Inspiré des meilleures pratiques de **Django**, **Laravel**, et **Rails**.
-- On adore **TailwindCSS**, **Twig**, et les **CLI efficaces** comme **Artisan** ou **AdonisJS CLI**.
+IronFlow is a **lightweight, modular, and scalable PHP framework**, designed to give developers full control over their applications while maintaining clean architecture, performance, and maintainability.
 
 ---
 
-## 🧙 Le pouvoir d’un framework simple et scalable
+## Philosophy
 
-Avec **IronFlow**, vous pourrez :
-- 🚀 Démarrer un projet en 30 secondes.  
-- 🔧 Activer et désactiver des modules facilement.  
-- 📐 Profiter d’une structure claire pour vos projets.  
-- 💻 Construire des SaaS et boutiques en ligne rapidement.  
+- **Modularity**: activate only the modules you need to keep your projects lean and flexible.  
+- **Separation of concerns**: clear MVC-based architecture ensures maintainable and understandable code.  
+- **Scalability**: built to grow with your application, from small prototypes to enterprise-grade platforms.  
+- **Lightweight core**: minimal dependencies and optimized for speed, letting you focus on building features.
 
-## 📦 Installation rapide
+---
 
-Prêt à commencer ? Clonez le repo, installez, et c'est parti ! 🔥
+## Explore IronFlow
 
-```bash
-# Création du projet
-composer create-project ironflow/skeleton mon-projet
+- **Documentation**: [https://ironflow.dev/docs](https://ironflow.dev/docs)  
+- **GitHub Issues**:
+    - [https://github.com/ironflow-framework/framework/issues](https://github.com/ironflow-framework/framework/issues)
+    - [https://github.com/ironflow-framework/skeleton/issues](https://github.com/ironflow-framework/skeleton/issues)
+- **Discussions**: [https://github.com/ironflow-framework/framework/discussions](https://github.com/ironflow-framework/framework/discussions)  
+- **Contact**: ironflow.framework@gmail.com
 
-# Configuration
-cd mon-projet
-cp .env.example .env
+---
 
-# Génération de la clé d'application
-php forge key:generate
-
-# Installation des dépendances
-composer install
-
-# Lancer le serveur de développement
-php forge serve
-```
+<p align="center">
+Forged with passion ❤️ by Aure Dulvresse
+</p>
