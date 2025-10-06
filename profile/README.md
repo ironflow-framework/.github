@@ -1,19 +1,15 @@
 # IronFlow
 
-<p align="center">
+## Introduction
+
+<p align="start">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/php-%3E%3D8.1-purple.svg" alt="PHP Version">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 </p>
 
----
-
-## Introduction
-
 **IronFlow** is a modular application framework built on top of [Laravel](https://laravel.com).  
 Its purpose is to simplify the development of **scalable, maintainable, and extensible applications**, while remaining fully compatible with Laravel’s ecosystem and tooling.
-
----
 
 ## Vision
 
@@ -54,7 +50,6 @@ IronFlow addresses these challenges by introducing:
 - **Skeleton project**  
   Ready-to-use Laravel boilerplate with IronFlow pre-installed.  
 
----
 
 ## Installation
 
@@ -79,8 +74,6 @@ composer create-project ironflow/skeleton my-app
 
 This will scaffold a new Laravel project pre-configured with IronFlow and example modules.
 
----
-
 ## Module Structure
 
 ```
@@ -98,8 +91,6 @@ App/Modules/Blog/
     BlogModule.php
 ```
 
----
-
 ## Contributing
 
 IronFlow is open-source and community-driven.
@@ -116,8 +107,6 @@ We welcome contributions from developers of all levels. You can help by:
 IronFlow is released under the **MIT License**.
 Certain premium packages (e.g. SaaS boilerplate, multi-tenant support) may be provided in the future to sustain development.
 
----
-
 ## Philosophy
 
 > *"Building a framework isn’t about reinventing the wheel.
@@ -129,8 +118,6 @@ IronFlow stands for:
 * **Modularity**: true separation of concerns.
 * **Efficiency**: lazy-loaded, asynchronous booting.
 * **Openness**: community-driven with a transparent roadmap.
-
----
 
 <p align="center">
 Forged with passion ❤️ by Aure Dulvresse
