@@ -7,7 +7,7 @@ Its purpose is to simplify the development of **scalable, maintainable, and exte
 
 <p align="start">
   <img src="https://img.shields.io/badge/version-3.1.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/php-%3E%3D8.1-purple.svg" alt="PHP Version">
+  <img src="https://img.shields.io/badge/php-%3E%3D8.2-purple.svg" alt="PHP Version">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 </p>
 
