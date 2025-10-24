@@ -6,7 +6,12 @@
 Its purpose is to simplify the development of **scalable, maintainable, and extensible applications**, while remaining fully compatible with Laravel’s ecosystem and tooling.
 
 <p align="start">
-  <img src="https://img.shields.io/badge/version-3.1.0-blue.svg" alt="Version">
+  <a href="https://packagist.org/packages/ironflow/ironflow">
+    <img src="https://img.shields.io/packagist/v/ironflow/ironflow" alt="Latest Version" />
+  </a>
+  <a href="https://packagist.org/packages/ironflow/ironflow">
+    <img src="https://img.shields.io/packagist/dt/ironflow/ironflow" alt="Total Downloads" />
+  </a>
   <img src="https://img.shields.io/badge/php-%3E%3D8.2-purple.svg" alt="PHP Version">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 </p>
