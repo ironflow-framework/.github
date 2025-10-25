@@ -49,16 +49,6 @@ IronFlow addresses these challenges by introducing:
 - **Publishing & distribution**  
   Convert modules into standalone packages for Packagist.  
 
-- **Dedicated CLI**  
-  Extended Artisan with commands like:  
-  - `ironflow:module:create`
-  - `ironflow:module:publish`
-  - `ironflow:module:install`
-  - `ironflow:make:model`, `ironflow:make:controller`, `ironflow:make:service`  
-
-- **Seamless integration**  
-  Extended support for migrations, factories, and seeders within modules.  
-
 - **Skeleton project**  
   Ready-to-use Laravel boilerplate with IronFlow pre-installed.  
 
@@ -95,12 +85,13 @@ App/Modules/Blog/
     Models/
     Routes/
     Resources/
-        views/
+        views/blog/
     Database/
         migrations/
         seeders/
         factories/
     BlogModule.php
+    BlogServiceProvider.pjp
 ```
 
 ## Contributing
