@@ -1,6 +1,7 @@
-<p align="start">
-  <img src="./" alt="IronFlow Logo" width="200">
+<p align="center">
+  <img src="./ironflow-logo-without-bg.png" alt="IronFlow Logo" width="200">
 </p>
+
 
 # IronFlow
 
