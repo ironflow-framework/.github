@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ironflow-logo.png" alt="IronFlow Logo" width="200">
+</p>
+
 # IronFlow
 
 ## Introduction
