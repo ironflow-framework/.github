@@ -1,5 +1,5 @@
 <p align="start">
-  <img src="./ironflow-logo-without-bg.png" alt="IronFlow Logo" width="200" height=100 />
+  <img src="./ironflow-logo-without-bg.png" alt="IronFlow Logo" width="200" height="200" />
 </p>
 
 
